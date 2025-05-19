@@ -20,7 +20,6 @@ This script uses the [Semantic Scholar API](https://www.semanticscholar.org/prod
 ## Requirements
 
 - Python 3.7+
-- [Semantic Scholar API key](https://www.semanticscholar.org/product/api#api-key-form)
 
 ### Python Packages
 
